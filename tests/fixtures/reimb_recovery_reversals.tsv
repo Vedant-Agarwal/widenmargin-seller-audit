@@ -1,0 +1,5 @@
+approval-date	reimbursement-id	amount-total	quantity-reimbursed-total	original-reimbursement-id	currency-unit	sku	reason
+2026-03-02	R1	10.00	2		USD	A	Lost_Warehouse
+2026-03-03	R2	9.00	1		USD	A	CustomerReturn
+2026-03-04	R3	-9.00	-1	R2	USD	A	Reimbursement_Reversal
+2026-03-05	R4	-5.00	-1	R-not-in-file	USD	A	Reimbursement_Reversal

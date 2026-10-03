@@ -1,0 +1,2 @@
+return-date	order-id	sku	asin	fnsku	product-name	quantity	fulfillment-center-id	detailed-disposition	reason	status	license-plate-number	customer-comments
+2026-07-01T10:00:00+00:00	O-2	MAT	B2	X2	Mat	1	PHX6	SELLABLE	NOT_AS_DESCRIBED	Unit returned to inventory	LPN1	

@@ -1,0 +1,2 @@
+approval-date	reimbursement-id	case-id	amazon-order-id	reason	sku	fnsku	asin	product-name	condition	currency-unit	amount-per-unit	amount-total	quantity-reimbursed-cash	quantity-reimbursed-inventory	quantity-reimbursed-total	original-reimbursement-id	original-reimbursement-type
+2026-08-01	R1		O-3	CustomerReturn	BOT	X3	B3	Bottle		USD	6.00	6.00	1	0	1		

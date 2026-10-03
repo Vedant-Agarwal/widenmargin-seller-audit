@@ -1,0 +1,9 @@
+﻿Settlement report for seller A1SAMPLE
+Generated 2026-09-01
+
+settlement-id	settlement-start-date	settlement-end-date	deposit-date	total-amount	currency	transaction-type	order-id	amount-type	amount-description	amount	posted-date	sku	quantity-purchased
+9001	2026-08-04	2026-08-17	2026-08-19	660.00	INR								
+
+	X	X	X			Order	403-1	ItemPrice	Principal	1,000.00	2026-08-05	MAT-1	1
+						Order	403-1	ItemFees	Commission	(90.00)	2026-08-05	MAT-1	1
+						Order	403-1	ItemFees	FBAPerUnitFulfillmentFee	-250.00	2026-08-05	MAT-1	1

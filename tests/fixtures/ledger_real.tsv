@@ -1,0 +1,17 @@
+Date	FNSKU	ASIN	MSKU	Title	Event Type	Reference ID	Quantity	Fulfillment Center	Disposition	Reason	Country	Reconciled Quantity	Unreconciled Quantity
+11/02/2025	X-A	B-A	A	Widget A	Receipts	R1	100	PHX6	SELLABLE		US	0	0
+11/20/2025	X-A	B-A	A	Widget A	Shipments	R1	-5	PHX6	SELLABLE		US	0	0
+12/15/2025	X-A	B-A	A	Widget A	Adjustments	R1	-2	PHX6	SELLABLE	M	US	0	0
+01/10/2026	X-A	B-A	A	Widget A	Adjustments	R1	-3	PHX6	SELLABLE	M	US	0	3
+02/01/2026	X-A	B-A	A	Widget A	Adjustments	R1	2	PHX6	SELLABLE	F	US	0	0
+02/03/2026	X-A	B-A	A	Widget A	Adjustments	R1	-1	PHX6	SELLABLE	E	US	0	0
+02/03/2026	X-A	B-A	A	Widget A	Adjustments	R1	1	PHX6	WAREHOUSE_DAMAGED	P	US	0	0
+02/05/2026	X-B	B-B	B	Widget B	Adjustments	R1	-1	PHX6	SELLABLE	H	US	0	0
+02/05/2026	X-B	B-B	B	Widget B	Adjustments	R1	1	PHX6	CUSTOMER_DAMAGED	P	US	0	0
+02/07/2026	X-B	B-B	B	Widget B	Adjustments	R1	-2	PHX6	SELLABLE	6	US	0	0
+02/08/2026	X-B	B-B	B	Widget B	Adjustments	R1	-1	PHX6	UNSELLABLE	D	US	0	0
+02/09/2026	X-B	B-B	B	Widget B	Adjustments	R1	-1	PHX6	SELLABLE	Q	US	0	0
+02/09/2026	X-B	B-B	B	Widget B	Adjustments	R1	1	PHX6	DEFECTIVE	P	US	0	0
+02/10/2026	X-B	B-B	B	Widget B	Adjustments	R1	-4	PHX6	SELLABLE	5	US	0	0
+02/11/2026	X-B	B-B	B	Widget B	Adjustments	R1	-1	PHX6	SELLABLE	Z	US	0	0
+02/12/2026	X-B	B-B	B	Widget B	CustomerReturns	R1	1	PHX6	CUSTOMER_DAMAGED		US	0	0

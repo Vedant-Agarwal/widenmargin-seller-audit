@@ -1,0 +1,4 @@
+approval-date	reimbursement-id	amount-total	quantity-reimbursed-total	original-reimbursement-id	currency-unit	sku	reason
+2026-03-02	R1	10.00	2		USD	A	Lost_Outbound
+2026-03-03	R2	10.00	1		USD	A	Damaged_Outbound
+2026-03-04	R3	10.00	1		USD	A	Lost_Warehouse

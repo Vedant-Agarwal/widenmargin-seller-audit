@@ -1,0 +1,6 @@
+approval-date	reimbursement-id	case-id	amazon-order-id	reason	sku	fnsku	asin	product-name	condition	currency-unit	amount-per-unit	amount-total	quantity-reimbursed-cash	quantity-reimbursed-inventory	quantity-reimbursed-total	original-reimbursement-id	original-reimbursement-type
+2026-08-15T07:00:00+00:00	5550001			Damaged_Warehouse	MAT-GREY	X00MAT02	B0MAT00002	Grey Yoga Mat	New	USD	7.10	7.10	1	0	1		
+2026-08-02T07:00:00+00:00	5550002			Lost_Warehouse	MUG-BLUE	X00MUG01	B0MUG00001	Blue Mug	New	USD	3.40	6.80	2	0	2		
+2026-09-12T07:00:00+00:00	5550003		114-1234567-1234567	CustomerReturn	MUG-BLUE	X00MUG01	B0MUG00001	Blue Mug	New	USD	9.00	9.00	1	0	1		
+2026-09-01T07:00:00+00:00	5550004			Lost_Outbound	BOT-500	X00BOT03	B0BOT00003	Steel Bottle	New	USD	4.00	4.00	1	0	1		
+2026-09-20T07:00:00+00:00	5550005			Reimbursement_Reversal	MUG-BLUE	X00MUG01	B0MUG00001	Blue Mug	New	USD	-3.40	-3.40	-1	0	-1	5550002	Lost_Warehouse

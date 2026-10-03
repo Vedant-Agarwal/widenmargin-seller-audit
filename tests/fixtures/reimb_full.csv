@@ -1,0 +1,6 @@
+approval-date,reimbursement-id,case-id,amount-per-unit,amount-total,quantity-reimbursed-cash,quantity-reimbursed-inventory,quantity-reimbursed-total,original-reimbursement-id,original-reimbursement-type,currency-unit,sku,fnsku,asin,product-name,condition,reason
+2026-03-02,R1,C1,12.50,12.50,1,0,1,,,USD,SKU-LOST,X001,B001,Blue Widget,Sellable,Lost:Warehouse
+2026-03-05,R2,C2,12.50,25.00,2,0,2,,,USD,SKU-DMG,X002,B002,Red Gadget,Sellable,Damaged:Warehouse
+2026-03-09,R3,C3,9.00,9.00,1,0,1,,,USD,SKU-LOST,X001,B001,Blue Widget,Sellable,CustomerReturn
+2026-03-11,R4,C4,3.20,3.20,0,0,0,,,USD,SKU-DMG,X002,B002,Red Gadget,Sellable,FeeCorrection
+2026-03-14,R5,C1,-12.50,-12.50,-1,0,-1,R1,REVERSAL_REIMBURSEMENT,USD,SKU-LOST,X001,B001,Blue Widget,Sellable,Lost:Warehouse

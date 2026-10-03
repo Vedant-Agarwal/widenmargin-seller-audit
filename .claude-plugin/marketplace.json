@@ -1,0 +1,17 @@
+{
+  "name": "widenmargin",
+  "owner": {
+    "name": "Vedant Agarwal",
+    "url": "https://widenmargin.com"
+  },
+  "description": "Free, open-source Claude plugins from WidenMargin for Amazon sellers.",
+  "plugins": [
+    {
+      "name": "widenmargin-seller-audit",
+      "source": "./",
+      "description": "Audit skills for Amazon US FBA sellers: unreimbursed lost/damaged inventory, refunds not returned, and a reimbursements breakdown.",
+      "category": "productivity",
+      "tags": ["amazon", "fba", "reimbursements"]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "main": {
+    "today": "2026-09-24",
+    "unit_costs": {
+      "SKU-A": 8,
+      "SKU-C": 5
+    },
+    "losses": [
+      {
+        "date": "2026-09-01",
+        "sku": "SKU-A",
+        "asin": "B00A",
+        "fnsku": "XA",
+        "product_name": "Widget A",
+        "category": "lost",
+        "units": 5
+      },
+      {
+        "date": "2026-09-01",
+        "sku": "SKU-A",
+        "asin": "B00A",
+        "fnsku": "XA",
+        "product_name": "Widget A",
+        "category": "lost",
+        "units": 3
+      },
+      {
+        "date": "2026-09-10",
+        "sku": "SKU-A",
+        "asin": "B00A",
+        "fnsku": "XA",
+        "product_name": "Widget A",
+        "category": "damaged",
+        "units": 2
+      },
+      {
+        "date": "2026-09-10",
+        "sku": "SKU-B",
+        "asin": "B00B",
+        "fnsku": "XB",
+        "product_name": "Widget B",
+        "category": "damaged",
+        "units": 4
+      },
+      {
+        "date": "2026-07-31",
+        "sku": "SKU-C",
+        "asin": "B00C",
+        "fnsku": "XC",
+        "product_name": "Widget C",
+        "category": "lost",
+        "units": 2
+      },
+      {
+        "date": "2024-06-01",
+        "sku": "SKU-D",
+        "asin": "B00D",
+        "fnsku": "XD",
+        "product_name": "Widget D",
+        "category": "lost",
+        "units": 1
+      }
+    ],
+    "reimbursed": [
+      {
+        "sku": "SKU-A",
+        "units": 4,
+        "amount": 40
+      },
+      {
+        "sku": "SKU-B",
+        "units": 4,
+        "amount": 50
+      }
+    ]
+  },
+  "old_hides_recent": {
+    "today": "2026-09-24",
+    "unit_costs": {},
+    "reimbursed": [],
+    "losses": [
+      {
+        "date": "2026-03-01",
+        "sku": "S",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 2
+      },
+      {
+        "date": "2026-09-10",
+        "sku": "S",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      }
+    ]
+  },
+  "fifo": {
+    "today": "2026-09-24",
+    "unit_costs": {},
+    "reimbursed": [
+      {
+        "sku": "S",
+        "units": 1,
+        "amount": 5
+      }
+    ],
+    "losses": [
+      {
+        "date": "2026-09-01",
+        "sku": "S",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      },
+      {
+        "date": "2026-08-05",
+        "sku": "S",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      }
+    ]
+  },
+  "closing": {
+    "today": "2026-09-24",
+    "unit_costs": {},
+    "reimbursed": [],
+    "losses": [
+      {
+        "date": "2026-08-05",
+        "sku": "S",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      }
+    ]
+  },
+  "expired": {
+    "today": "2026-09-24",
+    "unit_costs": {},
+    "reimbursed": [],
+    "losses": [
+      {
+        "date": "2026-07-01",
+        "sku": "S",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      }
+    ]
+  },
+  "boundary_day_45_and_60": {
+    "today": "2026-09-24",
+    "unit_costs": {},
+    "reimbursed": [],
+    "losses": [
+      {
+        "date": "2026-08-10",
+        "sku": "D45",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      },
+      {
+        "date": "2026-08-11",
+        "sku": "D44",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      },
+      {
+        "date": "2026-07-26",
+        "sku": "D60",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      },
+      {
+        "date": "2026-07-27",
+        "sku": "D59",
+        "asin": "",
+        "fnsku": "",
+        "product_name": "",
+        "category": "lost",
+        "units": 1
+      }
+    ]
+  }
+}

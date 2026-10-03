@@ -1,0 +1,2 @@
+settlement-id	settlement-start-date	currency	transaction-type	order-id	item-related-fee-type	item-related-fee-amount	shipment-fee-type	shipment-fee-amount	order-fee-type
+5001	2026-08-04	USD	Order	112-1	Commission	-7.49	ShippingHB	-1.00	

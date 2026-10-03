@@ -1,0 +1,9 @@
+settlement-id	settlement-start-date	settlement-end-date	deposit-date	total-amount	currency	transaction-type	order-id	merchant-order-id	adjustment-id	shipment-id	marketplace-name	amount-type	amount-description	amount	fulfillment-id	posted-date	order-item-code	merchant-order-item-id	merchant-adjustment-item-id	sku	quantity-purchased	promotion-id
+S1	2026-05-01	2026-06-30	2026-07-02	60.00	USD																	
+S1					USD	Refund	O-1		A1		Amazon.com	ItemPrice	Principal	-20.00	AFN	2026-06-26				MUG		
+S1					USD	Refund	O-1		A1		Amazon.com	ItemFees	Commission	2.40	AFN	2026-06-26				MUG		
+S1					USD	Refund	O-2		A2		Amazon.com	ItemPrice	Principal	-15.00	AFN	2026-06-20				MAT		
+S1					USD	Refund	O-3		A3		Amazon.com	ItemPrice	Principal	-12.00	AFN	2026-06-15				BOT		
+S1					USD	Refund	O-5		A5		Amazon.com	ItemPrice	Principal	-9.00	AFN	2026-03-08				BOT		
+S1					USD	Refund	O-6		A6		Amazon.com	ItemPrice	Principal	-30.00	MFN	2026-06-26				MUG		
+S1					USD	Order	O-7				Amazon.com	ItemPrice	Principal	25.00	AFN	2026-06-01				MUG	1	

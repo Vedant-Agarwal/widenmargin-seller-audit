@@ -1,0 +1,7 @@
+date	fnsku	asin	msku	title	event-type	quantity	disposition	reason
+2026-03-08	X1	B1	SKU-A	Widget A	Adjustments	-3	SELLABLE	Lost
+2026-03-10	X2	B2	SKU-B	Widget B	Adjustments	-2	SELLABLE	Damaged:Warehouse
+2026-03-11	X2	B2	SKU-B	Widget B	Adjustments	-1	SELLABLE	Damaged:Customer
+2026-03-12	X2	B2	SKU-B	Widget B	Disposed	-1	UNSELLABLE	Disposal
+2026-03-15	X1	B1	SKU-A	Widget A	Found	1	SELLABLE	
+2026-03-16	X2	B2	SKU-B	Widget B	Adjustments	1	WAREHOUSE_DAMAGED	Damaged:Warehouse
