@@ -42,6 +42,8 @@ FBA lost & damaged inventory check — checked as of 2026-10-03
 
 ## Privacy: what this plugin runs, sends and fetches
 
+**[Privacy policy](PRIVACY.md)**: this plugin collects, stores and sends nothing.
+
 - **Files are processed inside Claude; nothing is sent to WidenMargin** or to anyone else.
 - **Runs:** three Python scripts (`skills/*/scripts/*.py`) on the files you upload, in Claude's
   code-execution sandbox (claude.ai, Cowork) or on your machine (Claude Code, which asks before
