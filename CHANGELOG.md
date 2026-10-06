@@ -3,6 +3,10 @@
 All notable changes to this plugin are listed here. Versions follow `version` in
 `.claude-plugin/plugin.json`; policy facts in each skill's `references/` carry their own as-of date.
 
+## 0.1.1 — 2026-10-05
+
+- Added a privacy policy (`PRIVACY.md`), linked from the README. No code changes.
+
 ## 0.1.0 — 2026-10-03
 
 First release.

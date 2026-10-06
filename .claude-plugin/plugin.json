@@ -1,7 +1,7 @@
 {
   "name": "widenmargin-seller-audit",
   "displayName": "WidenMargin Seller Audit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Free, open-source audit skills for Amazon US FBA sellers: find lost or damaged inventory with no matching reimbursement (Inventory Ledger), refunds where the item never came back (settlement + Customer Returns), and a reimbursements breakdown. Files are processed inside Claude; nothing is sent anywhere.",
   "author": {
     "name": "Vedant Agarwal",
